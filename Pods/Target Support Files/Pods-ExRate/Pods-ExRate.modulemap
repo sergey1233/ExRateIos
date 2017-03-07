@@ -1,0 +1,6 @@
+framework module Pods_ExRate {
+  umbrella header "Pods-ExRate-umbrella.h"
+
+  export *
+  module * { export * }
+}
